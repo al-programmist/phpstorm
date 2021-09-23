@@ -1,0 +1,368 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/byudzhetirovanie/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="339" selection-start-line="339" selection-end-line="339" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_products.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/contract-management/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="232" column="38" selection-start-line="232" selection-start-column="38" selection-end-line="232" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/ifrs/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="237" column="38" selection-start-line="237" selection-start-column="38" selection-end-line="237" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/kaznacheystvo/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="679">
+              <caret line="211" column="38" selection-start-line="211" selection-start-column="38" selection-end-line="211" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/konsolidatsiya/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="165" column="34" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/management-accounting/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="179" column="34" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busines/plan-fact/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/busines/platezhnyj-kalendar/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="647">
+              <caret line="346" column="21" selection-start-line="346" selection-start-column="21" selection-end-line="346" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>products__top</find>
+      <find>Кли</find>
+      <find>Кейсы по внедрению БИТ.ФИНАНС</find>
+      <find>Вся линейка программ БИТ.ФИНАНС для автоматизация финансового и управленческого учета, учета по МСФО</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_products.scss" />
+      <option value="$PROJECT_DIR$/busines/byudzhetirovanie/index.php" />
+      <option value="$PROJECT_DIR$/index.php" />
+      <option value="$PROJECT_DIR$/busines/ifrs/index.php" />
+      <option value="$PROJECT_DIR$/busines/contract-management/index.php" />
+      <option value="$PROJECT_DIR$/busines/kaznacheystvo/index.php" />
+      <option value="$PROJECT_DIR$/busines/konsolidatsiya/index.php" />
+      <option value="$PROJECT_DIR$/busines/management-accounting/index.php" />
+      <option value="$PROJECT_DIR$/busines/plan-fact/index.php" />
+      <option value="$PROJECT_DIR$/busines/platezhnyj-kalendar/index.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_section.scss" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bitfinance.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitfinance.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitfinance.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitfinance.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="busines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitfinance.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitfinance.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="busines" type="462c0819:PsiDirectoryNode" />
+              <item name="konsolidatsiya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitfinance.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitfinance.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="busines" type="462c0819:PsiDirectoryNode" />
+              <item name="management-accounting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitfinance.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitfinance.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="busines" type="462c0819:PsiDirectoryNode" />
+              <item name="plan-fact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitfinance.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitfinance.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="busines" type="462c0819:PsiDirectoryNode" />
+              <item name="platezhnyj-kalendar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="bitfinance.ru-history" />
+      <TerminalTabState tabName="185.180.40.20" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="bitfinance.ru-history1" />
+      <TerminalTabState tabName="185.180.40.20 (2)" commandHistoryFileName="bitfinance.ru-history2" />
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7972000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25013012" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.32977617" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33028847" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Remote Host" order="0" visible="true" weight="0.16736075" />
+      <window_info anchor="right" id="Database" order="1" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Remote Host</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" key="#Deployment" timestamp="1630507212478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1630507212478" />
+    <state x="535" y="164" width="850" height="807" key="#SSH_Configurations" timestamp="1622547853175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="164" width="850" height="807" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1622547853175" />
+    <state x="460" y="164" key="SettingsEditor" timestamp="1622547829394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622547829394" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1631187789084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631187789084" />
+    <state x="659" y="319" key="ftp.server.browser" timestamp="1630507177315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="319" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1630507177315" />
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup" timestamp="1630515300899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630515300899" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="203" column="28" lean-forward="true" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="108" column="54" selection-start-line="108" selection-start-column="54" selection-end-line="108" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/tools.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/update_events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="238" column="33" selection-start-line="238" selection-start-column="33" selection-end-line="238" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2373" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/byudzhetirovanie/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="339" selection-start-line="339" selection-end-line="339" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_products.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/contract-management/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="232" column="38" selection-start-line="232" selection-start-column="38" selection-end-line="232" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/ifrs/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="237" column="38" selection-start-line="237" selection-start-column="38" selection-end-line="237" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/kaznacheystvo/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="211" column="38" selection-start-line="211" selection-start-column="38" selection-end-line="211" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/konsolidatsiya/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="165" column="34" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/management-accounting/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="179" column="34" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/plan-fact/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busines/platezhnyj-kalendar/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="346" column="21" selection-start-line="346" selection-start-column="21" selection-end-line="346" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

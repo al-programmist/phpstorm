@@ -1,0 +1,37 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="AnnotationsAndDiffs.html" value="1632132553898" />
+        <entry key="CodeCompletion.html" value="1632397708471" />
+        <entry key="ColumnSelection.html" value="1631615013451" />
+        <entry key="CommentCode.html" value="1630957218263" />
+        <entry key="ConfiguringTerminal.html" value="1631171968317" />
+        <entry key="DBColors.html" value="1632397687510" />
+        <entry key="DragToOpen.html" value="1632397653334" />
+        <entry key="EnterDirectoryInGotoFile.html" value="1631860454545" />
+        <entry key="EvaluateExpression.html" value="1631526032748" />
+        <entry key="FindInPath.html" value="1632397668437" />
+        <entry key="GoToImplementation.html" value="1631860389869" />
+        <entry key="LensMode.html" value="1631084298604" />
+        <entry key="LineEndings.html" value="1632397705442" />
+        <entry key="LiveTemplates.html" value="1631084293032" />
+        <entry key="MoveUpDown.html" value="1631860442375" />
+        <entry key="MultiselectionInSearch1.html" value="1632397710010" />
+        <entry key="PreviewTODO.html" value="1632397699660" />
+        <entry key="RunTests.html" value="1631703400119" />
+        <entry key="SearchEverywhere.html" value="1632397710533" />
+        <entry key="SelectRunDebugConfiguration.html" value="1631265268534" />
+        <entry key="SpeedSearchinLiveTemplates.html" value="1631860431460" />
+        <entry key="TabInEditorClose.html" value="1632225487860" />
+        <entry key="TagNameCompletion.html" value="1631860428457" />
+        <entry key="Terminal.html" value="1632397674810" />
+        <entry key="YouTrack_integration.html" value="1631084288351" />
+        <entry key="db_tip_back_up_table.html" value="1631084301147" />
+        <entry key="find_action.html" value="1632037813851" />
+        <entry key="find_usages.html" value="1631084276127" />
+        <entry key="intention_action_replace_with_between_expression.html" value="1632397709453" />
+      </map>
+    </option>
+  </component>
+</application>

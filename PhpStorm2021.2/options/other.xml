@@ -1,0 +1,208 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="14.17.6" last-modified="1630334942000" />
+    </local-interpreter>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1m5hssvVELxA7qeUVSB5WShNukL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1nvdvCKke8TXe6v3NjZbo5hjrhA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sQk1OedhD3rS08aHnJS83jNYMe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sR38fDOHnK8CXh2NjFlBBMXWCP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sX5faXdOt4zCN2ewHZ7JM2FPUw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sshIoVmCS2irFKj5PPRehR21GZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1stfdob76DfLj81HLuaCDWxhqjO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1szGmIz2GWT78wY0UHVbfXRpp0i">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1szJEa7UohOn0lQppPHzt09Gx2y">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1t52PF2M8dd7Ieh3Xlw8m7ZBJvF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tLU5Zrk8ADM3tvZ3v5joS9p1mP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tM15T8SP5Kqe49WzAeN1VOB4G9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1utCFi9UcIZveCviL8RZ9PMj9l0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uzZ5Q4cj3QeiBt9Rk5JoxGz0Kq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uzsGDbrpSDJjs8T3mDPHpIFFRX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1v1hKiVAE9xXKooKNDozNxltAot">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1v1inLkfGrhpPYCYqxG7GbpDelQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1v1t5gUye72iM3LuK5h1LptTeNr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vIl7vy3NVHpWMnvMB0kwZ3F7Um">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wqVkhyEGeRHGvqHpZAXGgsd6us">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xIvzYAH1RhFgb8JrTBQx6N6mkE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xlqWVubqJWTd6tIAFIcVqvwSF8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xlyfJFClGxE1SRJQuutXJrxQwY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yAnjRkphdxXm6PeVgWPXhXHDXT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yDCxm615yV3cyOxOfnyajC14mR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="232-29-39-255,,,134-134-134-255,,,60-54-152-156" />
+    <property name="CommitToolWindow.COMMIT_SPLITTER_PROPORTION" value="0.7280702" />
+    <property name="FindSplitterProportion" value="0.33026114" />
+    <property name="InstalledPluginsSearchHistory" value="tag:Keymap&#10;/tag:Keymap&#10;pix&#10;pi&#10;p" />
+    <property name="KEYMAP" value="ALT+D&#10;ALT&#10;plugins" />
+    <property name="MTUILite.version" value="4.0" />
+    <property name="MarketplacePluginsSearchHistory" value="/tag:Keymap&#10;rem&#10;pix&#10;code&#10;co" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Close&#10;Alt&#10;synchronize&#10;cursor&#10;keyboard" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.82173496" />
+    <property name="Vcs.Log.Text.Filter.History" value="23700226" />
+    <property name="appcds.runOnSecondStart" value="PS-212.5284.49-02007d3840d9fe43611b7607434e4170dc598135a27e962e7799fb77090bc5d2" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="duplicate.index.options.HTML.anonymizeAttributes" value="false" />
+    <property name="duplicate.index.options.HTML.anonymizeNames" value="false" />
+    <property name="duplicate.index.options.HTML.anonymizeText" value="false" />
+    <property name="duplicate.index.options.HTML.enabledLanguage" value="true" />
+    <property name="evlsprt3.211" value="10" />
+    <property name="evlsprt3.212" value="10" />
+    <property name="file.chooser.recent.files" value="D:/_storage/_open-server/domains/skillbox/weblayout/11_adaptive-layout-desktop&#10;D:/_storage/_open-server/domains/skillbox/weblayout/05_layout-html/img/content&#10;D:/_storage/_open-server/domains/skillbox/weblayout/05_layout-html&#10;D:/_storage/_open-server/domains/webpack&#10;D:/_storage/_open-server/domains/bitwifi.ru/local/templates/bitfiwi&#10;D:/_storage/_open-server/domains/crm.ru&#10;D:/_storage/_open-server/domains/studiobit.ru&#10;D:/_storage/_open-server/domains/abt.ru&#10;D:/_storage/_open-server/domains/bit-stroitelstvo-redesign&#10;D:/_storage/_open-server/domains/bitwifi.ru&#10;D:/_storage/_open-server/domains/skillbox/weblayout/05_layout-html/css/styles.css&#10;D:/_storage/_open-server/domains/abt.ru/local/templates/main/images/logo-excel.png&#10;D:/_storage/_open-server/domains/skillbox&#10;D:/_storage/_open-server/domains/8host.ru&#10;D:/_storage/_open-server/domains/1cbit.ua&#10;D:/_storage/_open-server/domains/test&#10;D:/_storage/_open-server/domains/kkm.ru&#10;C:/Program Files/Git/bin/bash.exe&#10;D:/_storage/_open-server/domains/1cbit.ru" />
+    <property name="file.gist.reindex.count" value="3905" />
+    <property name="fileTypeChangedCounter" value="36" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.builtin.web.server.reload.on.save" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="got.it.tooltip.web.preview.reload.on.save" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-212.5284.49" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="lastSeenTip" value="neue-SpecialCharacters.html" />
+    <property name="lastTimeTipsWereShown" value="1621493961635" />
+    <property name="last_opened_file_path" value="D:/_storage/_open-server/domains/webpack" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="registry.to.advanced.settings.migration.build" value="PS-212.5284.49" />
+    <property name="seenTips" value="neue-NavigateToFilePath.html,neue-CompleteStatement.html,neue-ColorFiles.html,neue-intention_action_replace_with_between_expression.html,neue-QuickJavaDocInLookups.html,neue-CtrlD.html,neue-ShowHideSideBars.html,neue-Spellchecker.html,neue-jump_to_colors_fonts.html,neue-PreviewTODO.html,neue-SurroundWith.html,neue-SpecialCharacters.html" />
+    <property name="selected.color.option.type" value="TDIFF_EXCLUDED_COLUMN" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="studiobit.ru-history" project-path="D:/_storage/_open-server/domains/studiobit.ru" last-access-time="1629711267486" />
+      <command-history-file filename="bitfinance.ru-history1" project-path="D:/_storage/_open-server/domains/bitfinance.ru" last-access-time="1630512660282" />
+      <command-history-file filename="crm.ru-history" project-path="D:/_storage/_open-server/domains/crm.ru" last-access-time="1630586549167" />
+      <command-history-file filename="bitfinance.ru-history2" project-path="D:/_storage/_open-server/domains/bitfinance.ru" last-access-time="1630514121308" />
+      <command-history-file filename="skillbox-history" project-path="D:/_storage/_open-server/domains/skillbox" last-access-time="1631544795541" />
+      <command-history-file filename="kkm.ru-history" project-path="D:/_storage/_open-server/domains/kkm.ru" last-access-time="1631782021642" />
+      <command-history-file filename="bitwifi.ru-history" project-path="D:/_storage/_open-server/domains/bitwifi.ru" last-access-time="1630674980816" />
+      <command-history-file filename="abt.ru-history2" project-path="D:/_storage/_open-server/domains/abt.ru" last-access-time="1630919734444" />
+      <command-history-file filename="1cbit.ru-history" project-path="D:/_storage/_open-server/domains/1cbit.ru" last-access-time="1632225480893" />
+      <command-history-file filename="bitfinance.ru-history" project-path="D:/_storage/_open-server/domains/bitfinance.ru" last-access-time="1630512660280" />
+      <command-history-file filename="abt.ru-history" project-path="D:/_storage/_open-server/domains/abt.ru" last-access-time="1630919734442" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

@@ -1,0 +1,105 @@
+<templateSet group="Zen CSS">
+  <template name="poss" value="position:static;" description="position:static;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="posa" value="position:absolute;" description="position:absolute;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="posr" value="position:relative;" description="position:relative;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="posf" value="position:fixed;" description="position:fixed;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dn" value="display:none;" description="display:none;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="db" value="display:block;" description="display:block;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="df" value="display:flex;" description="display:flex;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dif" value="display:inline-flex;" description="display:inline-flex;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="di" value="display:inline;" description="display:inline;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dib" value="display:inline-block;" description="display:inline-block;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dli" value="display:list-item;" description="display:list-item;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dcp" value="display:compact;" description="display:compact;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="ditb" value="display:inline-table;" description="display:inline-table;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fxd:r" value="flex-directionrow;" description="flex-direction:row;" toReformat="true" toShortenFQNames="false">
+    <context />
+  </template>
+  <template name="fxdrr" value="flex-direction:row-reverse;" description="flex-direction:row-reverse;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fxdc" value="flex-direction:column;" description="flex-direction:column;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fxdcr" value="flex-direction:column-reverse;" description="flex-direction:column-reverse;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fxwn" value="flex-wrap:nowrap;" description="flex-wrap:nowrap;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fxww" value="flex-wrap:wrap;" description="flex-wrap:wrap;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fxwwr" value="flex-wrap:wrap-reverse;" description="flex-wrap:wrap-reverse;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="flg" value="flex-grow: $END$;" description="flex-grow:...;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

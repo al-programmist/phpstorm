@@ -1,0 +1,773 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="1cbit.ru" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/template_styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="4579" lean-forward="true" selection-start-line="4579" selection-end-line="4579" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/home/styles/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="4926" column="5" lean-forward="true" selection-start-line="4926" selection-start-column="5" selection-end-line="4926" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/css/template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="7535" lean-forward="true" selection-start-line="7535" selection-end-line="7535" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/include_areas/landing-menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6534">
+              <caret line="297" column="99" selection-start-line="297" selection-start-column="99" selection-end-line="297" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/include_areas/landing-menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6534">
+              <caret line="297" column="76" selection-start-line="297" selection-start-column="76" selection-end-line="297" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erp/css/page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="134" column="25" lean-forward="true" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>promo-panel__inner</find>
+      <find>promo-banner-call-form</find>
+      <find>form.result.new.befsend</find>
+      <find>promo.flyfooter.banner</find>
+      <find>video</find>
+      <find>video-wrapper</find>
+      <find>btn-big</find>
+      <find>feed</find>
+      <find>.branch</find>
+      <find>bit-button_pink</find>
+      <find>Стоимость программы ERP</find>
+      <find>$.fancybox.close()</find>
+      <find>$.fancybox.close();</find>
+      <find>fancybox</find>
+      <find>Стоимость</find>
+      <find>&lt;div class=&quot;js-accordion prices-accordion price-list&quot;</find>
+      <find>catalog.section</find>
+      <find>prices-accordion-price</find>
+      <find>preim</find>
+      <find>general</find>
+      <find>.width</find>
+      <find>Скачать ке</find>
+      <find>Другие возможности БИТ.CRM</find>
+      <find>j-adjust-row</find>
+      <find>bannerup box-reset-margin</find>
+      <find>region.include</find>
+      <find>expertschild</find>
+      <find>list-item experts</find>
+      <find>clearfix</find>
+      <find>=&quot;tab</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\main\js\Controllers</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\main\bootstrap\js</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\1s-otrasli\avtomatizaciya-stroitelstva</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\javascripts</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\local\templates\home\styles</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\landing</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\promo</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\main</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\empty</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\components\1cbit\clients.slider.portfolio\templates\.default</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\empty\promo.bar</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\local\templates\home</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\include_areas</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\1csoft\bit-bpm</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\pavlodar\services\elektronnye-trudovyye-dogovory</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\main\css</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\form.result.new.befsend\inner_line_consult_1csoft</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\form.result.new.befsend\inner_line_consult</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\erp</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bitrix\catalog.section\product.list.erp</dir>
+      <dir>\</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\services\1c-fresh</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\components\1cbit\price.list\templates\.default</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bitrix\news.list\pressreleasesother</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\company\press</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\landing\css</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\landing\include_areas</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/semej/services/elektronnye-trudovyye-dogovory/index.php" />
+      <option value="$PROJECT_DIR$/shymkent/services/elektronnye-trudovyye-dogovory/index.php" />
+      <option value="$PROJECT_DIR$/taraz/services/elektronnye-trudovyye-dogovory/index.php" />
+      <option value="$PROJECT_DIR$/uralsk/services/elektronnye-trudovyye-dogovory/index.php" />
+      <option value="$PROJECT_DIR$/ust-kamenogorsk/services/elektronnye-trudovyye-dogovory/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/general2page.product/template.php" />
+      <option value="$PROJECT_DIR$/1s-otrasli/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/header.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/header.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/inner_line_consult/template.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/subscribers/template.php" />
+      <option value="$PROJECT_DIR$/1csoft/bit-crm-test/css/page.css" />
+      <option value="$PROJECT_DIR$/erp/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section/price.list_with_link/template.php" />
+      <option value="$PROJECT_DIR$/1csoft/1s-kompleksnaya-avtomatizatsiya/css/page.css" />
+      <option value="$PROJECT_DIR$/services/1c-fresh/css/page.css" />
+      <option value="$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/css/page.css" />
+      <option value="&lt;1871514e-2c63-433d-811a-5106ea167514&gt;/bitrix/components/bezr/form.result.new.befsend/include/general.component_epilog.php" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/main.scss" />
+      <option value="$PROJECT_DIR$/services/update/css/page.css" />
+      <option value="$PROJECT_DIR$/1csoft/litsenzii-1s-bitriks-1variant/css/index.css" />
+      <option value="$PROJECT_DIR$/1csoft/bit-bpm/css/page.css" />
+      <option value="$PROJECT_DIR$/bitrix/components/1cbit/price.list/templates/.default/template.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section/price.list/template.php" />
+      <option value="$PROJECT_DIR$/1csoft/1s-upravlenie-torgovley-8-61/css/page.css" />
+      <option value="$PROJECT_DIR$/1csoft/perehod-s-1s7-na-1s-8/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/components/bezr/callback.popup/templates/floating.phone/style.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/css/styles.css" />
+      <option value="$PROJECT_DIR$/services/1c-fresh/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog/contacts/style.css" />
+      <option value="$PROJECT_DIR$/company/about/evolution/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/styles.css" />
+      <option value="$PROJECT_DIR$/ui-guide/css/page.css" />
+      <option value="$PROJECT_DIR$/1csoft/bit-crm-8-42/css/page.css" />
+      <option value="$PROJECT_DIR$/ui-guide/index.php" />
+      <option value="$PROJECT_DIR$/1csoft/bit-crm-8-42/index.php" />
+      <option value="$PROJECT_DIR$/kp-its/css/style.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/pressreleasesother/template.php" />
+      <option value="$PROJECT_DIR$/company/press/index.php" />
+      <option value="$PROJECT_DIR$/company/press/js/script.js" />
+      <option value="$PROJECT_DIR$/company/press/style.css" />
+      <option value="$PROJECT_DIR$/semej/1s-otrasli/vnedrenie-crm-sistem/index.php" />
+      <option value="$PROJECT_DIR$/semej/1s-otrasli/vnedrenie-crm-sistem/css/page.css" />
+      <option value="$PROJECT_DIR$/1csoft/1s-zup-korp-8/index.php" />
+      <option value="$PROJECT_DIR$/1s-otrasli/vnedrenie-crm-sistem/css/page.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/include_areas/landing-menu.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing/include_areas/landing-menu.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing/css/template.css" />
+      <option value="$PROJECT_DIR$/erp/css/page.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing/template_styles.css" />
+      <option value="$PROJECT_DIR$/local/templates/home/styles/styles.css" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="bitrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="bitrix" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="bitrix" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="landing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="bitrix" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="landing" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1cbit.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1cbit.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="1cbit.ru-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="292127000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.1887038" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.1887038" />
+      <window_info id="Pull Requests" order="2" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.1887038" />
+      <window_info id="Commit" order="4" visible="true" weight="0.19443" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.34567308" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.2908654" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.33028847" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2533654" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32977617" />
+      <window_info anchor="right" id="Remote Host" order="1" weight="0.1184279" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1376887" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32977617" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.34567308" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.2908654" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.33028847" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2533654" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32977617" />
+      <window_info anchor="right" id="Remote Host" order="1" weight="0.20536178" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Event Log</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Remote Host</value>
+      <value>Favorites</value>
+      <value>Structure</value>
+      <value>File Transfer</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>Database</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" key="#Deployment" timestamp="1627392455538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1627392455538" />
+    <state x="636" y="195" key="#Options" timestamp="1629967984502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="195" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1629967984502" />
+    <state x="535" y="164" key="#SSH_Configurations" timestamp="1627287070470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="164" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1627287070470" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1627640953212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627640953212" />
+    <state x="184" y="80" key="MergeDialog" timestamp="1630314720850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="80" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630314720850" />
+    <state x="594" y="275" key="MultipleFileMergeDialog" timestamp="1629108863926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="275" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629108863926" />
+    <state x="684" y="232" key="SettingsEditor" timestamp="1632131754582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="232" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1632131754582" />
+    <state x="551" y="250" key="Vcs.Push.Dialog.v2" timestamp="1632405040634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632405040634" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627648434718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627648434718" />
+    <state x="777" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630419512554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630419512554" />
+    <state x="262" y="117" width="1029" height="620" key="find.popup" timestamp="1632317251152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="262" y="117" width="1029" height="620" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1632317251152" />
+    <state x="660" y="319" key="ftp.server.browser" timestamp="1627287050382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="319" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1627287050382" />
+    <state x="710" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1630314682412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630314682412" />
+    <state x="958" y="467" width="615" height="544" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1629107106739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="958" y="467" width="615" height="544" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629107106739" />
+    <state x="168" y="59" width="672" height="685" key="search.everywhere.popup" timestamp="1632308598236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="168" y="59" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1632308598236" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bitrix/components/1cbit/catalog.section/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section/product.list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section/product.list.erp/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/1cbit/price.list/price_list_with_link/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12232">
+          <caret line="556" column="23" selection-start-line="556" selection-start-column="23" selection-end-line="556" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section/price.list_with_link/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="116" selection-start-line="55" selection-start-column="116" selection-end-line="55" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/1s-kompleksnaya-avtomatizatsiya/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/1c-fresh/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6600">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/update/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="409" column="33" selection-end-line="469" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="338" column="98" selection-start-line="338" selection-start-column="98" selection-end-line="338" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/litsenzii-1s-bitriks-1variant/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21824">
+          <caret line="992" selection-start-line="992" selection-end-line="992" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-bpm/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/1s-upravlenie-torgovley-8-61/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/1cbit/price.list/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section/price.list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/perehod-s-1s7-na-1s-8/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="619" column="12" selection-start-line="619" selection-start-column="5" selection-end-line="619" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/1s-upravlenie-torgovley-8-61/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="429" selection-start-line="428" selection-end-line="429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/information.svg" />
+    <entry file="file://$PROJECT_DIR$/bitrix/components/bezr/callback.popup/templates/floating.phone/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="2079" selection-start-line="2079" selection-end-line="2079" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/1c-fresh/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112200">
+          <caret line="5100" selection-start-line="5100" selection-end-line="5100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog/contacts/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/about/evolution/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-guide/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-crm-8-42/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="312" column="157" selection-start-line="312" selection-start-column="157" selection-end-line="312" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-crm-8-42/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-guide/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="2843" selection-start-line="2843" selection-end-line="2843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kp-its/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="573" column="56" selection-start-line="573" selection-start-column="56" selection-end-line="573" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/Controllers/Form/FormValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/Controllers/ListAdjust.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/Controllers/Form/FormRuleMng.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/press/sect_press.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/pressreleasesother/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shymkent/tor/btask/roznichnaya-torgovlya/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/press/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/press/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/press/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semej/1s-otrasli/vnedrenie-crm-sistem/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semej/1s-otrasli/vnedrenie-crm-sistem/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/1s-zup-korp-8/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="2172" column="168" selection-start-line="2172" selection-start-column="168" selection-end-line="2172" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1s-otrasli/vnedrenie-crm-sistem/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/include_areas/landing-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="297" column="99" selection-start-line="297" selection-start-column="99" selection-end-line="297" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/include_areas/landing-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="297" column="76" selection-start-line="297" selection-start-column="76" selection-end-line="297" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erp/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="134" column="25" lean-forward="true" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/template_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="4579" lean-forward="true" selection-start-line="4579" selection-end-line="4579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="4926" column="5" lean-forward="true" selection-start-line="4926" selection-start-column="5" selection-end-line="4926" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="7535" lean-forward="true" selection-start-line="7535" selection-end-line="7535" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

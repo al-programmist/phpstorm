@@ -1,0 +1,619 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/index.php" description="&lt;li&gt;Выдача и возврат спецодежды и спецоснастки&lt;/li..." line="142" mnemonic="1" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bit-stroitelstvo-redesign" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-158">
+              <caret line="161" column="32" lean-forward="true" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_clients-tabs.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="772">
+              <caret line="223" selection-start-line="223" selection-end-line="223" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_section.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/main/sass/includes/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>special</find>
+      <find>Модули БИТ.СТРОИТЕЛЬСТВО</find>
+      <find>btn btn-big btn-blue large-btn_hunter close-hunter</find>
+      <find>SeoTrackHelper</find>
+      <find>Seo</find>
+      <find>require</find>
+      <find>seo</find>
+      <find>&lt;section class=&quot;section product-promo&quot;&gt;</find>
+      <find>.button</find>
+      <find>Внедрение БИТ.ФИНАНС</find>
+      <find>Задачи</find>
+      <find>header</find>
+      <find>button</find>
+      <find>title</find>
+      <find>DELIVERS</find>
+      <find>Новости</find>
+      <find>section__desc section__desc_with-buttons</find>
+      <find>8hostru.n6.devbit.ru</find>
+      <find>cases-fiter__col</find>
+      <find>Управленческий учет. Функции и бизнес-задачи</find>
+      <find>Управление финан</find>
+      <find>wrapp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>8host.ru</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\_storage\_open-server\domains\bit-stroitelstvo-redesign\local\templates\.default\components\bezr\form.result.new.befsend\complaints2boss</dir>
+      <dir>D:\_storage\_open-server\domains\bit-stroitelstvo-redesign\local\templates\.default\components\bezr\callback.popup\floating.phone</dir>
+      <dir>D:\_storage\_open-server\domains\bit-stroitelstvo-redesign\modules</dir>
+      <dir>D:\_storage\_open-server\domains\bit-stroitelstvo-redesign\local\templates\.default\components\bitrix\news\modules\bitrix\news.detail\.default</dir>
+      <dir>D:\_storage\_open-server\domains\bit-stroitelstvo-redesign\clients</dir>
+      <dir>D:\_storage\_open-server\domains\bit-stroitelstvo-redesign\local\templates\.default\components\bitrix\catalog.filter\clients</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/busines/.sub.menu.php" />
+      <option value="$PROJECT_DIR$/modules/.sub.menu.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/header.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_header.scss" />
+      <option value="$PROJECT_DIR$/local/templates/main/footer.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_footer.scss" />
+      <option value="$PROJECT_DIR$/local/components/nsd/iblock.element.list/templates/products_grid/template.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_products-grid.scss" />
+      <option value="&lt;20e181c7-ba09-4023-a7e1-dc5cc37c7788&gt;/local/templates/.default/components/bezr/form.result.new.befsend/complaints2boss/template.php" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bezr/form.result.new.befsend/complaints2boss/template.php" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bezr/callback.popup/floating.phone/template.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/includes/_typography.scss" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/style.scss" />
+      <option value="$PROJECT_DIR$/modules/podryadchik/index.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_product-releases.scss" />
+      <option value="$PROJECT_DIR$/modules/inc.introduction_block.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_button.scss" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bezr/callback.popup/floating.phone/script.js" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_product-promo.scss" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_main-promo.scss" />
+      <option value="$PROJECT_DIR$/index.php" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/news/modules/bitrix/news.detail/.default/template.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_half-slider.scss" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_color-grid.scss" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/include_area/top_section_list_btn_text.php" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/include_area/top_section_list_static_text.php" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/include_area/top_section_list_form_title_text.php" />
+      <option value="&lt;20e181c7-ba09-4023-a7e1-dc5cc37c7788&gt;/bitrix/php_interface/dbconn.php" />
+      <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/news.php" />
+      <option value="$PROJECT_DIR$/../test/index.html" />
+      <option value="$PROJECT_DIR$/clients/index.php" />
+      <option value="$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/.section.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_complex-tabs.scss" />
+      <option value="$PROJECT_DIR$/modules/index.php" />
+      <option value="$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/css/page.css" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/index.php" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_clients-tabs.scss" />
+      <option value="$PROJECT_DIR$/local/templates/main/sass/blocks/_section.scss" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bit-stroitelstvo-redesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bit-stroitelstvo-redesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bit-stroitelstvo-redesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bit-stroitelstvo-redesign" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bit-stroitelstvo-redesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bit-stroitelstvo-redesign" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bit-stroitelstvo-redesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bit-stroitelstvo-redesign" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bit-stroitelstvo-redesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bit-stroitelstvo-redesign" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bit-stroitelstvo-redesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bit-stroitelstvo-redesign" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106177000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.122592404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.45679334" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.45679334" />
+      <window_info id="Commit" order="3" visible="true" weight="0.290734" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33028847" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.15721154" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.33028847" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33028847" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Remote Host" order="1" weight="0.097605415" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Remote Host</value>
+      <value>Version Control</value>
+      <value>Event Log</value>
+      <value>Problems View</value>
+      <value>Favorites</value>
+      <value>Structure</value>
+      <value>File Transfer</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" width="1143" height="685" key="#Deployment" timestamp="1631011546441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" width="1143" height="685" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1631011546441" />
+    <state x="636" y="195" key="#Options" timestamp="1631778236152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="195" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1631778236152" />
+    <state x="535" y="164" key="#SSH_Configurations" timestamp="1625742873724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="164" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1625742873724" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1631201883808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631201883808" />
+    <state x="594" y="281" key="MultipleFileMergeDialog" timestamp="1631201888863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631201888863" />
+    <state x="461" y="160" key="SettingsEditor" timestamp="1631778226187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631778226187" />
+    <state x="613" y="432" key="VCS.EditChangelistDialog" timestamp="1626868293283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="432" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626868293283" />
+    <state x="551" y="237" key="Vcs.Push.Dialog.v2" timestamp="1631778935214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631778935214" />
+    <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627558733513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627558733513" />
+    <state x="749" y="131" width="597" height="648" key="find.popup" timestamp="1631541070937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="131" width="597" height="648" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631541070937" />
+    <state x="822" y="319" key="ftp.server.browser" timestamp="1625743572479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="319" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1625743572479" />
+    <state x="660" y="239" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1631260949795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="239" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631260949795" />
+    <state x="716" y="151" key="git4idea.branch.GitSmartOperationDialog" timestamp="1631526194432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="151" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631526194432" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1627568250299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1627568250299" />
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup" timestamp="1631620425113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631620425113" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/.sub.menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5112">
+          <caret line="215" column="51" selection-start-line="215" selection-start-column="51" selection-end-line="215" selection-end-column="51" />
+          <folding>
+            <element signature="e#165#193#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="187" column="12" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/components/nsd/iblock.element.list/templates/products_grid/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5520">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_products-grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="173" column="1" selection-start-line="173" selection-start-column="1" selection-end-line="173" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bezr/form.result.new.befsend/complaints2boss/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bezr/callback.popup/floating.phone/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="104" column="118" selection-start-line="104" selection-start-column="118" selection-end-line="104" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/js/Controllers/Form/FormButtonData.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/js/Controllers/Form/FormValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/includes/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="320" column="3" lean-forward="true" selection-start-line="320" selection-start-column="3" selection-end-line="320" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/js/Controllers/SeoTrackHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_product-releases.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/podryadchik/index.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/modules/section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1743" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bezr/callback.popup/floating.phone/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../temp/modules/inc.introduction_block.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/modules/bitrix/news.detail/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="63" column="154" selection-start-line="63" selection-start-column="154" selection-end-line="63" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_main-promo.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="193" column="30" selection-start-line="193" selection-start-column="30" selection-end-line="193" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/modules/bitrix/news.detail/.default/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/inc.introduction_block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_button.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_half-slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_product-promo.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="103" column="30" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_color-grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/detail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/include_area/top_section_list_static_text.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/include_area/top_section_list_btn_text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/include_area/top_section_list_form_title_text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/catalog.filter/clients/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc_areas/products/description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="73" selection-start-column="73" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/index.html" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/news/clients/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/.section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="349" selection-start-line="349" selection-end-line="400" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_complex-tabs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="217" column="27" selection-start-line="217" selection-start-column="27" selection-end-line="217" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-guide/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fin-Dir/css/page.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fin-Dir/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitfin-standart/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="75" selection-start-line="75" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit-stroitelstvo-dlya-podryadchikov/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="161" column="32" lean-forward="true" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/includes/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_clients-tabs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/sass/blocks/_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

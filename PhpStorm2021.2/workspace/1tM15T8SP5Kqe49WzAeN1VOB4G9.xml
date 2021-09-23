@@ -1,0 +1,428 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/index.html" description="&lt;/picture&gt;" line="254" mnemonic="1" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4864145">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/base.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1012">
+                  <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="400">
+                  <caret line="1017" lean-forward="true" selection-start-line="1017" selection-end-line="1017" />
+                  <folding>
+                    <element signature="e#995#11452#2" expanded="true" />
+                    <element signature="e#11493#21951#2" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="505" column="42" selection-start-line="505" selection-start-column="42" selection-end-line="505" selection-end-column="42" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#article#1;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#c93</find>
+      <find>#304059</find>
+      <find>#CC9933</find>
+      <find>#ffcc66</find>
+      <find>#2A2736</find>
+      <find>#999</find>
+      <find>rgba(255, 255, 255, 0)</find>
+      <find>#000</find>
+      <find>more__link</find>
+      <find>transition</find>
+      <find>a</find>
+      <find>faq__question</find>
+      <find>picture</find>
+      <find>btn</find>
+      <find>selec</find>
+      <find>butt</find>
+      <find>.header</find>
+      <find>.hero</find>
+      <find>.footer</find>
+      <find>hero</find>
+      <find>.input-field__textarea</find>
+      <find>container</find>
+      <find>.main-search-call</find>
+      <find>main-search</find>
+      <find>main-nav__</find>
+      <find>transition-dur</find>
+      <find>E1670E</find>
+      <find>content-item</find>
+      <find>hero__link</find>
+      <find>accordeon</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.more__link span::after</replace>
+      <replace>var(--btn-text-color)</replace>
+      <replace>var(--transparent)</replace>
+      <replace>var(--black-color)</replace>
+      <replace>accordeon-list__item</replace>
+      <replace>button</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/img/icon/keyboard_tab.svg" />
+      <option value="$PROJECT_DIR$/weblayout/.gitignore" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/js/jquery-migrate-1.1.1.min.js" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/js/cusel.min.js" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/js/main.js" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/css/cusel.css" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/index.html" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/css/styles.css" />
+      <option value="$PROJECT_DIR$/weblayout/07_layout-flexbox/.editorconfig" />
+      <option value="$PROJECT_DIR$/weblayout/08_layout-stylization/.editorconfig" />
+      <option value="$PROJECT_DIR$/weblayout/05_layout-html/css/base.css" />
+      <option value="$PROJECT_DIR$/weblayout/10_advanced-css/index.html" />
+      <option value="$PROJECT_DIR$/weblayout/10_advanced-css/css/styles.css" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/index.html" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulp/config/config.json" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulp/tasks/fonts.js" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulpfile.js" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/js/lib/base.js" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/base.css" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/js/main.js" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/style.css" />
+      <option value="$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/index.html" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="skillbox-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="216640000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25013012" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info id="Commit" order="4" visible="true" weight="0.14445601" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33028847" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" visible="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.33028847" />
+      <window_info anchor="bottom" id="Duplicates" order="6" weight="0.33028847" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33028847" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Event Log</value>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="729" y="265" key="FileChooserDialogImpl" timestamp="1631863209454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631863209454" />
+    <state x="710" y="419" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1632049510894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="419" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632049510894" />
+    <state x="183" y="85" key="MergeDialog" timestamp="1630613359072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="85" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630613359072" />
+    <state x="594" y="275" key="MultipleFileMergeDialog" timestamp="1630613359076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="275" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630613359076" />
+    <state x="460" y="164" key="SettingsEditor" timestamp="1631864253381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631864253381" />
+    <state x="551" y="250" key="Vcs.Push.Dialog.v2" timestamp="1632221201570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632221201570" />
+    <state x="667" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1631547837400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631547837400" />
+    <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624436629572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624436629572" />
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup" timestamp="1624022583501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624022583501" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/hanger.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/header-logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/heating.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/hotel-key.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/reception.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/security-box.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/keyboard_tab.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/img/icon/arrow-down.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/meta.rnc" />
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/js/datepicker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/js/cusel.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/js/jquery-migrate-1.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/css/cusel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/07_layout-flexbox/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/08_layout-stylization/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4730">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/05_layout-html/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2821">
+          <caret line="808" column="14" selection-start-line="808" selection-start-column="14" selection-end-line="808" selection-end-column="14" />
+          <folding>
+            <element signature="e#15289#15468#2" expanded="true" />
+            <element signature="e#15540#15716#2" expanded="true" />
+            <element signature="e#16482#16718#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/10_advanced-css/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="365" column="21" selection-start-line="365" selection-start-column="21" selection-end-line="365" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/10_advanced-css/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/10_advanced-css/css/base.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulp/config/tasks.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulp/tasks/fonts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulp/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/js/lib/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2011">
+          <caret line="120" column="49" lean-forward="true" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="505" column="42" selection-start-line="505" selection-start-column="42" selection-end-line="505" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#1;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="1017" lean-forward="true" selection-start-line="1017" selection-end-line="1017" />
+          <folding>
+            <element signature="e#995#11452#2" expanded="true" />
+            <element signature="e#11493#21951#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

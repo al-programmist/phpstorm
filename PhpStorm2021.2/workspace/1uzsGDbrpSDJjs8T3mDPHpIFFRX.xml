@@ -1,0 +1,434 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Если, теоретически</find>
+      <find>171ce455ad555aa7e09a.worker.js.</find>
+      <find>worker.js.</find>
+      <find>worker.js</find>
+      <find>collback-popup-content</find>
+      <find>position: fi</find>
+      <find>position: fixed</find>
+      <find>attr</find>
+      <find>criteria</find>
+      <find>в при</find>
+      <find>tab</find>
+      <find>Когда в приоритете безотказность</find>
+      <find>isValidate</find>
+      <find>9999999999999999999999999999</find>
+      <find>FormPop</find>
+      <find>.hero</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\_storage\_open-server\domains\bitwifi.ru\about\clients</dir>
+      <dir>D:\_storage\_open-server\domains\bitwifi.ru\local\templates\bitfiwi\bitwifi_front\src\scss\pages</dir>
+      <dir>D:\_storage\_open-server\domains\bitwifi.ru\local\templates\bitfiwi\bitwifi_front\src\js\libs</dir>
+      <dir>D:\_storage\_open-server\domains\bitwifi.ru\local\templates\bitfiwi\components\bitrix\catalog.smart.filter\products</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/package.json" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/blocks/_footer.scss" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/pug/includes/header.pug" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/OffCanvasHeaderOffset.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/pug/includes/header_fixed.pug" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/css/fonts/stylesheet.css" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/base/_global.scss" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/base/_variables_bootstrap.scss" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/pug/vkusvill.pug" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/validateForm/ValidatePhone.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/script.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/tmpdist/js/app.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/StatTabs.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/FormPopup.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/app.js" />
+      <option value="$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/pages/_vkusville.scss" />
+      <option value="$PROJECT_DIR$/about/clients/vkusvill-i-bit-wi-fi-iskusstvo-postroeniya-setey.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+              <item name="clients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="bitfiwi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitwifi.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitwifi.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="bitfiwi" type="462c0819:PsiDirectoryNode" />
+              <item name="bitwifi_front" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="bitwifi.ru-history" />
+      <TerminalTabState tabName="185.180.40.20" commandHistoryFileName="bitwifi.ru-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31068000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25013012" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32977617" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.33028847" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.33028847" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33028847" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32977617" />
+      <window_info anchor="right" id="Remote Host" order="1" weight="0.32977617" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Remote Host</value>
+      <value>Commit</value>
+      <value>File Transfer</value>
+      <value>Terminal</value>
+      <value>Database</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" key="#Deployment" timestamp="1625746388012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1625746388012" />
+    <state x="636" y="195" key="#Options" timestamp="1625746405002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="195" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1625746405002" />
+    <state x="535" y="164" key="#SSH_Configurations" timestamp="1625746248464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="164" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1625746248464" />
+    <state x="641" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626186184243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1626186184243" />
+    <state x="460" y="164" key="SettingsEditor" timestamp="1626196970223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1626196970223" />
+    <state x="551" y="237" key="Vcs.Push.Dialog.v2" timestamp="1626198521036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626198521036" />
+    <state x="749" y="131" width="600" height="554" key="find.popup" timestamp="1626170878617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="131" width="600" height="554" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626170878617" />
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup" timestamp="1626171056248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626171056248" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/blocks/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/public_/171ce455ad555aa7e09a.worker.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/debug/ProductImageDebug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/ProductFormPopup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/pug/includes/header.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/pug/includes/header_fixed.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/OffCanvasBg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/FormObserver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/components/bitrix/catalog.smart.filter/products/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="984" column="22" selection-start-line="984" selection-start-column="22" selection-end-line="984" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/OffCanvasHeaderOffset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/node_modules/bootstrap/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/tmpdist/css/app.css" />
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/mixin/_inputs.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/css/fonts/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/base/_variables_bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="583" lean-forward="true" selection-start-line="583" selection-end-line="583" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/base/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/base/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1741">
+          <caret line="154" column="1" lean-forward="true" selection-start-line="154" selection-start-column="1" selection-end-line="154" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/pug/vkusvill.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="210" lean-forward="true" selection-start-line="210" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/tmpdist/vkusvill.html" />
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/validateForm/ValidatePhone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/debugApi.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/decorative-lines.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/const.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/utils.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/webpack.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/webpack.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1952">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="29" selection-start-line="29" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/webpack.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/webpack/paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/tmpdist/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/FormPopup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1438">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/js/libs/StatTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/clients/vkusvill-i-bit-wi-fi-iskusstvo-postroeniya-setey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/bitfiwi/bitwifi_front/src/scss/pages/_vkusville.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

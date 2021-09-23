@@ -1,0 +1,469 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/local/templates/sb2018/header.php" description="src: local(&quot;suisse-bold&quot;), local(&quot;suisse-bold&quot;), u..." line="159" mnemonic="1" />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/local/templates/sb2018/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="874" lean-forward="true" selection-start-line="874" selection-end-line="874" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="91" selection-start-line="91" selection-end-line="112" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/main_controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10472">
+              <caret line="476" selection-start-line="476" selection-end-line="476" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main.js</find>
+      <find>font-fac</find>
+      <find>hero</find>
+      <find>hero_branches__img</find>
+      <find>static_new</find>
+      <find>products_card__icon</find>
+      <find>static_</find>
+      <find>font-face</find>
+      <find>require</find>
+      <find>deferr</find>
+      <find>tag.js</find>
+      <find>jivo</find>
+      <find>tag</find>
+      <find>jivosite</find>
+      <find>Der</find>
+      <find>.promo__content.breadcrumbs-container</find>
+      <find>promo__content breadcrumbs-container</find>
+      <find>$(document).on(&quot;click&quot;, &quot;.more-button&quot;, function (e) {</find>
+      <find>Deff</find>
+      <find>@</find>
+      <find>@font-face</find>
+      <find>$asset</find>
+      <find>Asset::getInstance()</find>
+      <find>def</find>
+      <find>@font</find>
+      <find>Asset::getInstance();</find>
+      <find>fancybox</find>
+      <find>confirm</find>
+      <find>Confirm</find>
+      <find>recaptcha</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$asset</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local\templates\sb2018\static\css</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local\templates\sb2018\components\bitrix\news.list\portfolio_case\blocks</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local\templates\sb2018\components\bitrix\news.list\main_banner</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local\templates</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local\templates\sb2018\static\js</dir>
+      <dir>\</dir>
+      <dir>D:\_storage\_open-server\domains\studiobit.ru\local\templates\sb2018</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/separate-js/init.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/.htaccess" />
+      <option value="$PROJECT_DIR$/static/js/gtm.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/header.php" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/components/bitrix/menu/mobile_menu/script.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/static/js/Controllers/Ready.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/bitrix/components/vitams/city.dropdown/templates/city_popup/script.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/main_controllers0.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/static/js/Controllers/Form/FormPageMng.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/static/js/Controllers/Form/FormMng.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/static/js/Controllers/Form/FormValidate.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/include/scroll.top.js" />
+      <option value="&lt;827dbed8-543a-40d9-a7f5-ebadda069540&gt;/local/templates/sb2018/components/bitrix/menu/mobile_menu/script.js" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/gulpfile.js" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/bitrix/php_interface/functions.php" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/bitrix/php_interface/handlers.php" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/bitrix/php_interface/init.php" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/static/css/main.css" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/static/js/main_controllers.js" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/static/js/tools/tools.js" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/.htaccess" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/components/bitrix/news.list/main_banner/template.php" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/components/bitrix/news.list/portfolio_case/blocks/banner.php" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/tools/tools.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormValidate.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/css/main.css" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/header.php" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/footer.php" />
+      <option value="&lt;4431d082-cc1e-461c-aee0-8108d1bcbf8c&gt;/local/templates/sb2018/static_new/css/style.css" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static_new/css/style.css" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/include/top.scroll.php" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/include/scroll.top.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/header.php" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Confirm.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/config.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Popup.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/PopupFrame.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormPageMng.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormPopupMng.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/static/js/main_controllers.js" />
+      <option value="$PROJECT_DIR$/local/templates/sb2018/footer.php" />
+      <option value="$PROJECT_DIR$/.htaccess" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="local" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="local" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="local" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sb2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="local" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sb2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="include" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="local" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sb2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="studiobit.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\_storage\_open-server\domains\studiobit.ru" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="local" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sb2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="studiobit.ru-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135068000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5005319" visible="true" weight="0.22410202" />
+      <window_info id="Structure" order="1" sideWeight="0.4994681" side_tool="true" weight="0.22410202" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.33028847" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.33028847" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Remote Host" order="0" side_tool="true" visible="true" weight="0.14914107" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32457054" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Remote Host</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>File Transfer</value>
+      <value>Structure</value>
+      <value>Database</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="1051" height="684" key="#Deployment" timestamp="1629667495757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="1051" height="684" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1629667495757" />
+    <state x="536" y="164" width="848" height="810" key="#SSH_Configurations" timestamp="1629467833680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="164" width="848" height="810" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1629467833680" />
+    <state x="705" y="275" key="FileChooserDialogImpl" timestamp="1629664001360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1629664001360" />
+    <state x="461" y="160" key="SettingsEditor" timestamp="1629186472215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1629186472215" />
+    <state x="795" y="420" width="330" height="200" key="WebDeployment.AddServerDialog.v.1" timestamp="1629467728451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="420" width="330" height="200" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040@0.0.1920.1040" timestamp="1629467728451" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1629457502590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629457502590" />
+    <state x="749" y="131" width="811" height="624" key="find.popup" timestamp="1629807941297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="131" width="811" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1629807941297" />
+    <state x="660" y="320" key="ftp.server.browser" timestamp="1629186386768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="320" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1629186386768" />
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup" timestamp="1629729844009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1629729844009" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/separate-js/init.js" />
+    <entry file="file://$PROJECT_DIR$/init.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/gtm.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="257" column="9" selection-start-line="257" selection-start-column="9" selection-end-line="257" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/css/main.min.css" />
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static_new/css/style.min.css.map" />
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/components/bitrix/menu/mobile_menu/script.js0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/components/bitrix/menu/mobile_menu/template.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/vendor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="5735" lean-forward="true" selection-start-line="5735" selection-end-line="5735" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/main_controllers0.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/UtmLog.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/LazyLoad.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Ready.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormPopupOpen.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Leaping.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormButtonData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3828">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Spoiler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormPopupMng.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/main_controllers.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/components/bitrix/news.list/portfolio_case/blocks/banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/components/bitrix/news.list/main_banner/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/DifferentList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/ReCaptchaProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/AbandonedForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-708">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/Controllers/Form/FormValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="298" column="17" lean-forward="true" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/tools/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/include/resource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static_new/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="878" selection-start-line="878" selection-end-line="878" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="199" column="25" selection-start-line="199" selection-start-column="25" selection-end-line="199" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/include/scroll.top.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/include/top.scroll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="203" lean-forward="true" selection-start-line="203" selection-end-line="203" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/static/js/main_controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10472">
+          <caret line="476" selection-start-line="476" selection-end-line="476" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="91" selection-start-line="91" selection-end-line="112" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/sb2018/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="874" lean-forward="true" selection-start-line="874" selection-end-line="874" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

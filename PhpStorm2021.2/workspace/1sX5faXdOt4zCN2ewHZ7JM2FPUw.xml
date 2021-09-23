@@ -1,0 +1,640 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/home/scss/components/_grid.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2352">
+              <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/local/templates/home/scss/components/_about-task.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/home/components/bezr/form.result.new.befsend/content_home/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2832">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newtpl/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5352">
+              <caret line="223" column="10" selection-start-line="223" selection-start-column="10" selection-end-line="223" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Блок стоимость</find>
+      <find>УВЕЛИЧИВАЙТЕ ЭФФЕКТИВНОСТЬ ВЗЫСКАНИЯ</find>
+      <find>scrollTo</find>
+      <find>Данная информация подтверждена отзывами наших клиентов!</find>
+      <find>email</find>
+      <find>validator</find>
+      <find>$.validator.methods.email</find>
+      <find>#quiz_popup</find>
+      <find>СУДЕБНАЯ СТАДИЯ ВЗЫСКАНИЯ</find>
+      <find>fancybox.close()</find>
+      <find>deleteCookie(&quot;WEBFORM_&lt;?=$arResult[&quot;SOULT_FORM&quot;]?&gt;&quot;, &quot;/&quot;);</find>
+      <find>setT</find>
+      <find>bit-qviz__step active</find>
+      <find>vote_module</find>
+      <find>scroll</find>
+      <find>mCu</find>
+      <find>req</find>
+      <find>767</find>
+      <find>switch-1csoft</find>
+      <find>Кому выгодно</find>
+      <find>Тарифы</find>
+      <find>Как</find>
+      <find>Программы в</find>
+      <find>Наши проекты</find>
+      <find>bsTransitionEnd</find>
+      <find>transitionEnd()</find>
+      <find>ifram</find>
+      <find>flexslider</find>
+      <find>about-tasks</find>
+      <find>content_</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\form.result.new.befsend\calc_quiz_extended</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\include_areas</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\ui-guide</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\1csoft\bit-upravlenie-zadolzhennostyu</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\main\js</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bitrix\catalog\update.managment\bitrix\catalog.section\.default</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\components\alert\form.issues\templates\.default</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\user\update\bezr\user.edit\client</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\form.result.new.befsend\general2landing.onecol</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\main\js\Controllers\Form</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\empty\confirm_mail</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\landing\css</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\astana\1csoft\zarplata-kadry-budzet</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bezr\form.result.new.befsend\quiz_form_vote_module</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\1csoft</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\.default\components\bitrix\catalog\1csoft</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\bitrix\templates\landing24\assets\vendor</dir>
+      <dir>\</dir>
+      <dir>D:\_storage\_open-server\domains\1cbit.ru\local\templates\home\scss\components</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/erp/css/page.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/include_areas/pos_head.php" />
+      <option value="$PROJECT_DIR$/bitrix/components/bezr/callback.popup/templates/floating.phone/style.css" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/_variables.scss" />
+      <option value="$PROJECT_DIR$/bitrix/templates/promo/template_styles.css" />
+      <option value="$PROJECT_DIR$/images/smartphone-ringing.svg" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_popup/template.php" />
+      <option value="$PROJECT_DIR$/bitrix/components/alert/form.issues/templates/.default/component_epilog.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/user/update/bezr/user.edit/client/component_epilog.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog/update.managment/bitrix/catalog.section/.default/script.js" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/js/Controllers/Form/FormPopupMng.js" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/empty/confirm_mail/script.js" />
+      <option value="&lt;ea274596-c098-4fe9-83b6-f3f914fc97a2&gt;/bitrix/components/bezr/form.result.new.befsend/include/general.component_epilog.php" />
+      <option value="$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/bitrix24land/component_epilog.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/vitams/city.dropdown/city_popup/script.js" />
+      <option value="$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/css/page.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news/events/bitrix/news.detail/.default/style.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/js/Controllers/Form/FormValidate.js" />
+      <option value="$PROJECT_DIR$/bitrix/components/bezr/form.result.new.befsend/include/general.component_epilog.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/calc_quiz_extended/template.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/template.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/calc_quiz_extended/script.js" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/calc_quiz_extended/style.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/script.js" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section.list/widget_1csoft_list_promo/template.php" />
+      <option value="$PROJECT_DIR$/ui-guide/index.php" />
+      <option value="$PROJECT_DIR$/bitrix/components/1cbit/clients.slider.projects/templates/.default/template.php" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/js/Controllers/OwlCarousel2.js" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing24/assets/vendor/vendors_base.min.js" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing24/assets/vendor/vendors_base.js" />
+      <option value="$PROJECT_DIR$/spb/school/razrabotka-elektronnykh-kursov/nastroyka-zhivoy-lenty1/mobile/player_compiled.js" />
+      <option value="$PROJECT_DIR$/1s-biznes-zadachi/avtomatizaciya-internet-torgovli/css/index.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/style.css" />
+      <option value="$PROJECT_DIR$/services/elektronnye-trudovyye-dogovory/index.php" />
+      <option value="$PROJECT_DIR$/services/elektronnye-trudovyye-dogovory/css/page.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news/blog/bitrix/news.detail/blog/style.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing/template_styles.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/landing/css/template.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/css/styles.css" />
+      <option value="$PROJECT_DIR$/bitrix/templates/main/js/main.js" />
+      <option value="$PROJECT_DIR$/bitrix/components/1cbit/promo.flyfooter.banner/templates/.default/style.css" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/components/_footer.scss" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/main.scss" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/components/_header.scss" />
+      <option value="$PROJECT_DIR$/bitrix/components/bezr/callback.popup/templates/floating.phone/script.js" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/components/_grid.scss" />
+      <option value="$PROJECT_DIR$/local/templates/home/components/bezr/form.result.new.befsend/content_home/template.php" />
+      <option value="&lt;ea274596-c098-4fe9-83b6-f3f914fc97a2&gt;/.htaccess" />
+      <option value="&lt;ea274596-c098-4fe9-83b6-f3f914fc97a2&gt;/local/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php" />
+      <option value="$PROJECT_DIR$/local/templates/home/scss/components/_about-task.scss" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="1cbit.ru-history9" />
+      <TerminalTabState tabName="185.180.40.20" commandHistoryFileName="1cbit.ru-history1" />
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="207959000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15903175" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.25585634" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33028847" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.33028847" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.33028847" />
+      <window_info anchor="bottom" id="Duplicates" order="6" weight="0.33028847" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" weight="0.33028847" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" sideWeight="0.50053304" weight="0.32977617" />
+      <window_info anchor="right" id="Remote Host" order="1" sideWeight="0.49946696" visible="true" weight="0.15747008" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Remote Host</value>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Version Control</value>
+      <value>File Transfer</value>
+      <value>Event Log</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>Duplicates</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" key="#Deployment" timestamp="1622201087222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1622201087222" />
+    <state x="551" y="177" key="#Intentions" timestamp="1622551250183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1622551250183" />
+    <state x="636" y="195" key="#Options" timestamp="1621006471332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="195" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1621006471332" />
+    <state x="535" y="43" width="850" height="997" key="#SSH_Configurations" timestamp="1622201085141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="43" width="850" height="997" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1622201085141" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1623333667937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623333667937" />
+    <state x="678" y="172" key="Git.DiffForPathsDialog" timestamp="1622650840806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="172" key="Git.DiffForPathsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622650840806" />
+    <state x="460" y="118" width="1000" height="922" key="SettingsEditor" timestamp="1622183239848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="118" width="1000" height="922" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622183239848" />
+    <state x="325" y="261" key="Vcs.Push.Dialog.v2" timestamp="1625150695214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="325" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1625150695214" />
+    <state x="610" y="166" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625127422383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="610" y="166" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625127422383" />
+    <state x="749" y="131" width="628" height="620" key="find.popup" timestamp="1625148128325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="131" width="628" height="620" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625148128325" />
+    <state x="660" y="319" key="ftp.server.browser" timestamp="1621006336638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="319" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1621006336638" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1622644495343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622644495343" />
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup" timestamp="1625140238714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="685" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625140238714" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="147" column="60" selection-start-line="147" selection-start-column="60" selection-end-line="147" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/bit-upravlenie-zadolzhennostyu/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news/events/bitrix/news.detail/.default/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/Controllers/Form/FormValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="282" column="10" selection-start-line="282" selection-start-column="10" selection-end-line="282" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/bezr/form.result.new.befsend/include/general.component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/astana/1csoft/zarplata-kadry-budzet/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="456" column="19" selection-start-line="456" selection-start-column="19" selection-end-line="456" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#11863#11888#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/calc_quiz_extended/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2590">
+          <caret line="122" column="81" selection-start-line="122" selection-start-column="81" selection-end-line="122" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../abt.ru/local/templates/main/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="486" selection-start-line="486" selection-end-line="494" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/1s-dokumentooborot-1268-test/index.php" />
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="353" column="11" selection-start-line="353" selection-start-column="11" selection-end-line="353" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/calc_quiz_extended/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="132" selection-start-line="132" selection-end-line="132" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-326">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/calc_quiz_extended/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="455" selection-start-line="455" selection-end-line="455" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog.section.list/widget_1csoft_list_promo/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1csoft/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/catalog/1csoft/sections.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/saas/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="196" lean-forward="true" selection-start-line="82" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/saas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="388" column="27" lean-forward="true" selection-start-line="388" selection-start-column="27" selection-end-line="388" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#4;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/1c-fresh/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="959" selection-start-line="959" selection-end-line="995" selection-end-column="43" />
+          <folding>
+            <element signature="n#div#5;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-guide/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="3635" column="6" selection-start-line="3635" selection-start-column="6" selection-end-line="3635" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/1c-fresh/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="308" column="16" lean-forward="true" selection-start-line="308" selection-start-column="16" selection-end-line="308" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vnedrenie-erp/.section.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/Controllers/OwlCarousel2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="200" column="59" lean-forward="true" selection-start-line="200" selection-start-column="59" selection-end-line="200" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/1cbit/clients.slider.projects/templates/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/vnedrenie-erp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="105" column="48" lean-forward="true" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing24/assets/vendor/vendors_base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="13028" column="62" selection-start-line="13028" selection-start-column="62" selection-end-line="13028" selection-end-column="62" />
+          <folding>
+            <element signature="e#182#188#0" expanded="true" />
+            <element signature="e#189#195#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#295#301#0" expanded="true" />
+            <element signature="e#302#308#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing24/assets/vendor/vendors_base.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64356">
+          <caret line="6792" column="44" selection-start-line="6792" selection-start-column="29" selection-end-line="6792" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spb/school/razrabotka-elektronnykh-kursov/nastroyka-zhivoy-lenty1/mobile/player_compiled.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542569">
+          <caret line="3619" column="41" selection-start-line="3619" selection-start-column="41" selection-end-line="3619" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1s-biznes-zadachi/avtomatizaciya-internet-torgovli/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1s-biznes-zadachi/avtomatizaciya-internet-torgovli/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="1344" column="3" selection-start-line="1344" selection-start-column="3" selection-end-line="1344" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bezr/form.result.new.befsend/quiz_form_vote_module/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="234" column="30" selection-start-line="234" selection-start-column="30" selection-end-line="234" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kz/services/elektronnye-trudovyye-dogovory/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="e#2942#2967#0#HTML" expanded="true" />
+            <element signature="e#3890#3915#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/elektronnye-trudovyye-dogovory/css/page.css" />
+    <entry file="file://$PROJECT_DIR$/services/elektronnye-trudovyye-dogovory/index.php" />
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news/blog/bitrix/news.detail/blog/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1097">
+          <caret line="4459" column="1" selection-start-line="4459" selection-start-column="1" selection-end-line="4459" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/landing/template_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7152">
+          <caret line="298" column="19" selection-start-line="298" selection-start-column="19" selection-end-line="298" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="451" column="61" selection-start-line="451" selection-start-column="61" selection-end-line="451" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24022">
+          <caret line="1377" selection-start-line="1377" selection-end-line="1377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/1cbit/promo.flyfooter.banner/templates/.default/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="123" column="23" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/components/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7348">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="649" column="27" selection-start-line="649" selection-start-column="27" selection-end-line="649" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/bezr/callback.popup/templates/floating.phone/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/images/background-about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/components/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2352">
+          <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/components/bezr/form.result.new.befsend/content_home/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2832">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtpl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5352">
+          <caret line="223" column="10" selection-start-line="223" selection-start-column="10" selection-end-line="223" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/home/scss/components/_about-task.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
