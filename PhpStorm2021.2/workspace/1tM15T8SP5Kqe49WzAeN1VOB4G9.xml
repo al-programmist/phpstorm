@@ -27,7 +27,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/base.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1012">
+                <state>
                   <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
                 </state>
               </provider>
@@ -36,8 +36,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
-                  <caret line="1017" lean-forward="true" selection-start-line="1017" selection-end-line="1017" />
+                <state relative-caret-position="88">
+                  <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
                   <folding>
                     <element signature="e#995#11452#2" expanded="true" />
                     <element signature="e#11493#21951#2" expanded="true" />
@@ -155,7 +155,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216640000" />
+    <option name="totallyTimeSpent" value="217110000" />
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
@@ -212,10 +212,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="594" y="275" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630613359076" />
-    <state x="460" y="164" key="SettingsEditor" timestamp="1631864253381">
+    <state x="460" y="164" key="SettingsEditor" timestamp="1632407734092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631864253381" />
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1632407734092" />
     <state x="551" y="250" key="Vcs.Push.Dialog.v2" timestamp="1632221201570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -394,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
+        <state>
           <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
         </state>
       </provider>
@@ -415,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weblayout/11_adaptive-layout-desktop/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="1017" lean-forward="true" selection-start-line="1017" selection-end-line="1017" />
+        <state relative-caret-position="88">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding>
             <element signature="e#995#11452#2" expanded="true" />
             <element signature="e#11493#21951#2" expanded="true" />

@@ -86,18 +86,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:/_storage/_open-server/domains/skillbox">
-          <value>
-            <RecentProjectMetaInfo frameTitle="skillbox – style.css" projectWorkspaceId="1tM15T8SP5Kqe49WzAeN1VOB4G9">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-212.5284.49" />
-              <option name="buildTimestamp" value="1631779457387" />
-              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1632215212682" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="D:/_storage/_open-server/domains/abt.ru">
           <value>
             <RecentProjectMetaInfo frameTitle="abt.ru – _index-slider.scss" projectWorkspaceId="1nvdvCKke8TXe6v3NjZbo5hjrhA">
@@ -124,13 +112,25 @@
         </entry>
         <entry key="D:/_storage/_open-server/domains/1cbit.ru">
           <value>
-            <RecentProjectMetaInfo frameTitle="1cbit.ru – template_styles.css" opened="true" projectWorkspaceId="1v1inLkfGrhpPYCYqxG7GbpDelQ">
+            <RecentProjectMetaInfo frameTitle="1cbit.ru – styles.css" projectWorkspaceId="1v1inLkfGrhpPYCYqxG7GbpDelQ">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.5284.49" />
               <option name="buildTimestamp" value="1631779494149" />
               <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1632397647548" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/_storage/_open-server/domains/skillbox">
+          <value>
+            <RecentProjectMetaInfo frameTitle="skillbox – style.css" opened="true" projectWorkspaceId="1tM15T8SP5Kqe49WzAeN1VOB4G9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.5284.49" />
+              <option name="buildTimestamp" value="1631779494149" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1632407259975" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
